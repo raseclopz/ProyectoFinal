@@ -1,0 +1,9 @@
+com/example/App.class
+processing_server_1/ProcessingServer.class
+processing_server_2/ProcessingServer$ProcesarHandler.class
+backend/BackendServer.class
+backend/BackendServer$ConsultaHandler.class
+processing_server/ProcessingServer.class
+processing_server_1/ProcessingServer$ProcesarHandler.class
+processing_server/ProcessingServer$ProcesarHandler.class
+processing_server_2/ProcessingServer.class
